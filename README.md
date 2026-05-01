@@ -90,7 +90,7 @@ faers-adverse-event-analysis/
 ---
 
 ## Dashboard PDF
-[View Full Dashboard PDF](output/FAERS_Analysis.pdf)
+[View Full Dashboard PDF](output/FAERS_Analysis_Dashboard.pdf)
 
 ---
 
