@@ -76,16 +76,16 @@ faers-adverse-event-analysis/
 
 ## Dashboard Preview
 ### Page 1 — Outcome Overview
-![Outcome Overview](screenshots/page1_outcome_overview.png)
+![Outcome Overview](screenshots/Page 1_Outcome Over.png)
 
 ### Page 2 — Gender Analysis
-![Gender Analysis](screenshots/page2_gender_analysis.png)
+![Gender Analysis](screenshots/Page 2_Gender Analysis.png)
 
 ### Page 3 — Age Group Analysis
-![Age Group Analysis](screenshots/page3_age_group_analysis.png)
+![Age Group Analysis](screenshots/Page 3_ Age Group Analysis.png)
 
 ### Page 4 — Full Detail Analysis
-![Full Detail](screenshots/page4_full_detail.png)
+![Full Detail](screenshots/Page 4_Full Detail.png)
 
 ---
 
