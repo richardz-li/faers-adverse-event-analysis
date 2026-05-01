@@ -1,0 +1,34 @@
+age_code,outcome_code,count
+Adult,Congenital Anomaly,13695
+Adult,Death,30934
+Adult,Disability,41604
+Adult,Hospitalization,113162
+Adult,Life Threatening,42379
+Adult,Other Serious Outcome,179682
+Adult,Required Intervention,2656
+Child,Congenital Anomaly,19
+Child,Death,637
+Child,Disability,1005
+Child,Hospitalization,5478
+Child,Life Threatening,1423
+Child,Other Serious Outcome,8542
+Child,Required Intervention,7
+Elderly,Congenital Anomaly,1132
+Elderly,Death,16798
+Elderly,Disability,11937
+Elderly,Hospitalization,74314
+Elderly,Life Threatening,10501
+Elderly,Other Serious Outcome,113557
+Elderly,Required Intervention,207
+Infant,Congenital Anomaly,183
+Infant,Death,229
+Infant,Disability,112
+Infant,Hospitalization,1229
+Infant,Life Threatening,384
+Infant,Other Serious Outcome,1947
+Neonate,Congenital Anomaly,740
+Neonate,Death,136
+Neonate,Disability,58
+Neonate,Hospitalization,958
+Neonate,Life Threatening,506
+Neonate,Other Serious Outcome,1677

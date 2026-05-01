@@ -1,0 +1,15 @@
+sex,outcome_code,count
+F,Congenital Anomaly,57802
+F,Death,123606
+F,Disability,138217
+F,Hospitalization,527731
+F,Life Threatening,151118
+F,Other Serious Outcome,857417
+F,Required Intervention,7524
+M,Congenital Anomaly,18810
+M,Death,60513
+M,Disability,34359
+M,Hospitalization,266499
+M,Life Threatening,50218
+M,Other Serious Outcome,439529
+M,Required Intervention,2189
